@@ -5,7 +5,7 @@ Summary:	UUID generator
 Name:		rubygem-%{rbname}
 
 Version:	2.1.2
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://uuidtools.rubyforge.org/
