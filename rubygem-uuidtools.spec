@@ -8,7 +8,7 @@ Version:	2.1.2
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://uuidtools.rubyforge.org/
+URL:		https://uuidtools.rubyforge.org/
 Source0:	http://gems.rubyforge.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
